@@ -1,4 +1,4 @@
-# curso-vagrant
+# curso vagrant
 
 ## Bloques
 
